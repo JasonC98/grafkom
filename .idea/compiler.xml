@@ -9,5 +9,8 @@
         <module name="Grafkom" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Grafkom" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
